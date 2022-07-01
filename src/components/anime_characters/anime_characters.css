@@ -1,0 +1,29 @@
+.character_row_character {
+
+    height:256px;
+    width:171px;
+    margin-inline:14px;
+
+}
+
+.character_row_img {
+
+    height:175px;
+    width:171px;
+
+}
+
+.character_row {
+
+    display:flex;
+
+}
+
+.character_row_name {
+
+    padding: 10px;
+    text-align: center;
+    color: #333;
+    font-size: 12px;
+
+}

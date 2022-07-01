@@ -1,0 +1,40 @@
+.reviews {
+
+    margin:4% 0;
+
+}
+
+.review {
+
+    display:flex;
+    margin: 12px 4%;
+    background-color: #fff;
+
+}
+
+.review__user-name {
+
+    color: var(--review);
+    font-weight:600;
+
+}
+
+.review__content {
+
+    font-weight: 700;
+
+}
+
+.review__likes-img {
+
+    height:11px;
+    width:11px;
+    margin-right:14px;
+
+}
+
+.review__view-likes {
+
+    margin: 0 7px;
+
+}

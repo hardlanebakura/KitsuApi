@@ -1,0 +1,29 @@
+#anime_cover {
+
+    height:400px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+
+}
+
+#anime_main {
+
+    width:70%;
+    margin-left:15%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.animes {
+
+    background-color: #f7f7f7;
+
+}
+
+
+
+
+

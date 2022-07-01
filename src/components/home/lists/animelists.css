@@ -1,0 +1,17 @@
+.animes__row {
+
+    display:flex;
+
+}
+
+.anime__lists__title {
+
+    text-align: left;
+
+}
+
+.lists {
+
+    margin-bottom:4%;
+
+}

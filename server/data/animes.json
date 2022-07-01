@@ -1,0 +1,107 @@
+{
+
+    "animes": {
+
+        "trending": [
+
+        {
+            "name": "One Piece",
+            "id": "12"
+        },
+        {
+            "name": "Kimetsu no Yaiba: Yuukaku-hen",
+            "id": "44081"
+        },
+        {
+            "name": "Hunter x Hunter (2011)",
+            "id": "6448"
+        },
+        {
+            "name": "Kimetsu no Yaiba",
+            "id": "41370"
+        },
+        {
+            "name": "Naruto: Shippuuden",
+            "id": "1555"
+        }   
+
+        ],
+
+        "top" : [
+
+            {
+                "name": "One Piece",
+                "id": "12"
+            },
+            {
+                "name": "Boruto: Naruto Next Generations",
+                "id": "13051"
+            },
+            {
+                "name": "Detective Conan",
+                "id": "210"
+            },
+            {
+                "name": "Tate no Yuusha no Nariagari 2",
+                "id": "42530"
+            },
+            {
+                "name": "Super Dragon Ball Heroes",
+                "id": "41319"
+            }   
+
+        ],
+
+        "highest rating": [
+
+            {
+                "name": "Kimetsu no Yaiba: Yuukaku-hen",
+                "id": "44081"
+            },
+            {
+                "name": "Kimetsu no Yaiba: Nagatumo Yama Hen",
+                "id": "44389"
+            },
+            {
+                "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+                "id": "45249"
+            },
+            {
+                "name": "SPY×FAMILY",
+                "id": "45398"
+            },
+            {
+                "name": "Kimetsu no Yaiba: Tsuzumi Yashiki Hen",
+                "id": "45254"
+            }   
+
+        ],
+
+        "most popular": [
+
+            {
+                "name": "Attack on Titan",
+                "id": "7442"
+            },
+            {
+                "name": "One Punch Man",
+                "id": "10740"
+            },
+            {
+                "name": "Boku no Hero Academia",
+                "id": "11469"
+            },
+            {
+                "name": "Boku no Hero Academia 2",
+                "id": "12268"
+            },
+            {
+                "name": "Fullmetal Alchemist: Brotherhood",
+                "id": "3936"
+            }   
+
+        ]
+
+    }
+
+}

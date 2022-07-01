@@ -1,0 +1,36 @@
+.episode_row {
+
+    display:flex;
+
+}
+
+.episode {
+
+    margin-inline:14px;
+
+}
+
+.episode_img {
+
+    height:125px;
+    width:310px;
+
+}
+
+.episode_name {
+
+    max-width: fit-content;
+    padding: 10px;
+    text-align: center;
+    color: #333;
+    font-size: 12px;
+
+}
+
+#episodes {
+
+    width:99%;
+    margin-top:1%;
+    margin-left:1%;
+
+}

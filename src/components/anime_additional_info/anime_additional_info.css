@@ -1,0 +1,108 @@
+.anime__additional-info {
+
+    width:51%;
+    margin-inline: 11px;
+
+}
+
+#anime__title-and-year {
+
+    display:flex;
+    font-weight:bold;
+    margin-top: 4%;
+
+}
+
+#anime__title {
+
+    margin-right: 5px;
+    font-size:28px;
+
+}
+
+#anime__year {
+
+    margin-top:11px;
+    color: #999;
+    font-size: 17px;
+
+}
+
+#anime__rankings {
+
+    display:flex;
+    margin: 4px 0;
+
+}
+
+#anime__popularity, #anime__rating {
+
+    display:flex;
+    font-size: 12px;
+
+}
+
+#popularity_value, #rating_value {
+
+    padding-top: 3px;
+    padding-left: 1px;
+
+}
+
+#rating-img {
+
+    height:28px;
+    width:28px;
+    margin: -3px 1px 0 0;
+
+}
+
+#anime__genres {
+
+    display:flex;
+    margin: 12px 0;
+
+}
+
+.anime__genre {
+
+    background-color: #f7f7f7;
+    color: #464646;
+    border: 1px solid #eaeaea;
+    border-radius: 3px;
+    padding: 4px 8px;
+    margin: 4px 4px;
+
+}
+
+.heart-shape{
+    height:12px;
+    width:12px;
+    margin: 7px 7px 0 4px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background-color: red;
+  }
+  .heart-shape:before,
+  .heart-shape:after{
+    position: absolute;
+    height:12px;
+    width:12px;
+    content: '';
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    background-color: red;
+  }
+  .heart-shape:before{
+    bottom: 0px;
+    left: -6px;
+  }
+  .heart-shape:after{
+    top: -6px;
+    right: 0px;
+  }
